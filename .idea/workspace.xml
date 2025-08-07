@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc949ae5-b776-4ed8-81e8-b97c6f585872" name="Changes" comment="" />
+    <list default="true" id="bc949ae5-b776-4ed8-81e8-b97c6f585872" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Arrays/Find_Min_Max.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibonacci/Brute_Force.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibonacci/Recursion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Bubble_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting/Selection_Sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,8 +38,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Brute_Force.executor": "Run",
+    "Python.Bubble_sort.executor": "Run",
+    "Python.Find_Min_Max.executor": "Run",
+    "Python.Recursion.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="RunManager">
