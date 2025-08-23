@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc949ae5-b776-4ed8-81e8-b97c6f585872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/Find_Min_Max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fibonacci/Brute_Force.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fibonacci/Recursion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Bubble_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Selection_Sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/Anagram'.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/Binary_Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/Linear_Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Search/Monotonic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,26 +26,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="30oGuGzpFE3kPBAoYTdjDiKLb8V" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Brute_Force.executor": "Run",
-    "Python.Bubble_sort.executor": "Run",
-    "Python.Find_Min_Max.executor": "Run",
-    "Python.Recursion.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Anagram'.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Brute_Force.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Bubble_sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Find_Min_Max.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Linear_Search.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Monotonic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Selection_Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="DSA_With_PY" />
