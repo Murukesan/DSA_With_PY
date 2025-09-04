@@ -10,6 +10,6 @@ def insertion_sort(arr):
     return arr
 
 if __name__=='__main__':
-    arr=[7,6,5,4,3]
+    arr=[64, 34, 25, 12, 22, 11, 90, 5]
     res=insertion_sort(arr)
     print("Sorted Array : ",res)
