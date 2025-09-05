@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc949ae5-b776-4ed8-81e8-b97c6f585872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Linked List/Singly_Linked_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sorting/Quick_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/Circular_Doubly_Linked_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/Circular_Linked_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/Doubly_Linked_List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting/Insertion_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting/Insertion_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,9 @@
     "Python.Binary_Search.executor": "Run",
     "Python.Brute_Force.executor": "Run",
     "Python.Bubble_sort.executor": "Run",
+    "Python.Circular_Doubly_Linked_List.executor": "Run",
+    "Python.Circular_Linked_List.executor": "Run",
+    "Python.Doubly_Linked_List.executor": "Run",
     "Python.Find_Min_Max.executor": "Run",
     "Python.Insertion_sort.executor": "Run",
     "Python.Linear_Search.executor": "Run",
