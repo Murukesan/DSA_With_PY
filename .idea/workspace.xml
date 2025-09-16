@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc949ae5-b776-4ed8-81e8-b97c6f585872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Linked List/Circular_Doubly_Linked_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked List/Circular_Linked_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Linked List/Doubly_Linked_List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Linked List/Operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stacks/Stack.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,14 +43,15 @@
     "Python.Circular_Linked_List.executor": "Run",
     "Python.Doubly_Linked_List.executor": "Run",
     "Python.Find_Min_Max.executor": "Run",
-    "Python.Insertion_sort.executor": "Run",
+    "Python.Insertion_sort.executor": "Debug",
     "Python.Linear_Search.executor": "Run",
     "Python.Monotonic.executor": "Run",
+    "Python.Operations.executor": "Debug",
     "Python.Quick_sort.executor": "Debug",
     "Python.Recursion.executor": "Run",
     "Python.Selection_Sort.executor": "Run",
     "Python.Singly_Linked_List.executor": "Run",
-    "Python.main.executor": "Run",
+    "Python.main.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main"
   }
@@ -132,6 +132,11 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Sorting/Insertion_sort.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
