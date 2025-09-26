@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc949ae5-b776-4ed8-81e8-b97c6f585872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Hash_tables/Hashset_Impl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Hash_tables/hash_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hash_tables/Hashmap_Impl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Binary_Search_Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/Tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,12 +39,14 @@
   "keyToString": {
     "Python.Anagram'.executor": "Run",
     "Python.Binary_Search.executor": "Run",
+    "Python.Binary_Search_Tree.executor": "Run",
     "Python.Brute_Force.executor": "Run",
     "Python.Bubble_sort.executor": "Run",
     "Python.Circular_Doubly_Linked_List.executor": "Run",
     "Python.Circular_Linked_List.executor": "Run",
     "Python.Doubly_Linked_List.executor": "Run",
     "Python.Find_Min_Max.executor": "Run",
+    "Python.Hashmap_Impl.executor": "Run",
     "Python.Hashset_Impl.executor": "Run",
     "Python.Insertion_sort.executor": "Debug",
     "Python.Linear_Search.executor": "Run",
@@ -56,6 +60,7 @@
     "Python.Singly_Linked_List.executor": "Run",
     "Python.Stack.executor": "Run",
     "Python.Stack_LL.executor": "Run",
+    "Python.Tree.executor": "Run",
     "Python.hash_table.executor": "Run",
     "Python.main.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
