@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc949ae5-b776-4ed8-81e8-b97c6f585872" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Graph/Graph_Class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph_bfs_dfs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graph/Graph_weighed_graph.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +46,8 @@
     "Python.Find_Min_Max.executor": "Run",
     "Python.Graph_Class.executor": "Run",
     "Python.Graph_Implementation.executor": "Run",
+    "Python.Graph_bfs_dfs.executor": "Run",
+    "Python.Graph_weighed_graph.executor": "Run",
     "Python.Hashmap_Impl.executor": "Run",
     "Python.Hashset_Impl.executor": "Run",
     "Python.Insertion_sort.executor": "Debug",
@@ -147,6 +150,11 @@
           <url>file://$PROJECT_DIR$/Sorting/Insertion_sort.py</url>
           <line>2</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Graph/Graph_bfs_dfs.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
